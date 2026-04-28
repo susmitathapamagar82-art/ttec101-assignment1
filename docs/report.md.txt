@@ -1,2 +1,3 @@
 ## Additional Notes
-The dataset was explored using basic R functions such as head(), summary(), and str().
+Th## Conclusion
+This project demonstrates basic Git workflow and data analysis.e dataset was explored using basic R functions such as head(), summary(), and str().
