@@ -1,0 +1,2 @@
+## Additional Notes
+The dataset was explored using basic R functions such as head(), summary(), and str().
